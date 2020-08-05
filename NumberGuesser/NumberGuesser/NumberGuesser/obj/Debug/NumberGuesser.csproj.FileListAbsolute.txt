@@ -1,0 +1,14 @@
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\Console App\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\Console App\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\Console App\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\Console App\ConsoleApp1\ConsoleApp1\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\Console App\ConsoleApp1\ConsoleApp1\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\Console App\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\Console App\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\ConsoleApp1.exe
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\NumberGuesser\NumberGuesser\NumberGuesser\bin\Debug\ConsoleApp1.pdb
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\ConsoleApp1.exe
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Projects\Beginner\NumberGuesser\NumberGuesser\NumberGuesser\obj\Debug\ConsoleApp1.pdb
